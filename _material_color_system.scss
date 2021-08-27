@@ -1,0 +1,298 @@
+// 2014 Material Design color palettes - THE COLOR SYSTEM
+// AUTHOR: GOOGLE
+// SOURCE: hhttps://material.io/design/color/the-color-system.html#color-usage-and-palettes
+
+// Red
+$red-50:           rgb(255,235,238);    // #FFEBEE
+$red-100:          rgb(255,205,210);    // #FFCDD2
+$red-200:          rgb(239,154,154);    // #EF9A9A
+$red-300:          rgb(229,115,115);    // #E57373
+$red-400:          rgb(239,83,80);      // #EF5350
+$red-500:          rgb(244,67,54);      // #F44336
+$red-600:          rgb(229,57,53);      // #E53935
+$red-700:          rgb(211,47,47);      // #D32F2F
+$red-800:          rgb(198,40,40);      // #C62828
+$red-900:          rgb(183,28,28);      // #B71C1C
+$red-a100:         rgb(255,138,128);    // #FF8A80
+$red-a200:         rgb(255,82,82);      // #FF5252
+$red-a400:         rgb(255,23,68);      // #FF1744
+$red-a700:         rgb(213,0,0);        // #D50000
+
+// Pink
+$pink-50:          rgb(252,228,236);    // #FCE4EC
+$pink-100:         rgb(248,187,208);    // #F8BBD0
+$pink-200:         rgb(244,143,177);    // #F48FB1
+$pink-300:         rgb(240,98,146);     // #F06292
+$pink-400:         rgb(236,64,122);     // #EC407A
+$pink-500:         rgb(233,30,99);      // #E91E63
+$pink-600:         rgb(216,27,96);      // #D81B60
+$pink-700:         rgb(194,24,91);      // #C2185B
+$pink-800:         rgb(173,20,87);      // #AD1457
+$pink-900:         rgb(136,14,79);      // #880E4F
+$pink-a100:        rgb(255,128,171);    // #FF80AB
+$pink-a200:        rgb(255,64,129);     // #FF4081
+$pink-a400:        rgb(245,0,87);       // #F50057
+$pink-a700:        rgb(197,17,98);      // #C51162
+
+// Purple
+$purple-50:        rgb(243,229,245);    // #F3E5F5
+$purple-100:       rgb(225,190,231);    // #E1BEE7
+$purple-200:       rgb(206,147,216);    // #CE93D8
+$purple-300:       rgb(186,104,200);    // #BA68C8
+$purple-400:       rgb(171,71,188);     // #AB47BC
+$purple-500:       rgb(156,39,176);     // #9C27B0
+$purple-600:       rgb(142,36,170);     // #8E24AA
+$purple-700:       rgb(123,31,162);     // #7B1FA2
+$purple-800:       rgb(106,27,154);     // #6A1B9A
+$purple-900:       rgb(74,20,140);      // #4A148C
+$purple-a100:      rgb(234,128,252);    // #EA80FC
+$purple-a200:      rgb(224,64,251);     // #E040FB
+$purple-a400:      rgb(213,0,249);      // #D500F9
+$purple-a700:      rgb(170,0,255);      // #AA00FF
+
+// Deep Purple
+$deep-purple-50:   rgb(237,231,246);    // #EDE7F6
+$deep-purple-100:  rgb(209,196,233);    // #D1C4E9
+$deep-purple-200:  rgb(179,157,219);    // #B39DDB
+$deep-purple-300:  rgb(149,117,205);    // #9575CD
+$deep-purple-400:  rgb(126,87,194);     // #7E57C2
+$deep-purple-500:  rgb(103,58,183);     // #673AB7
+$deep-purple-600:  rgb(94,53,177);      // #5E35B1
+$deep-purple-700:  rgb(81,45,168);      // #512DA8
+$deep-purple-800:  rgb(69,39,160);      // #4527A0
+$deep-purple-900:  rgb(49,27,146);      // #311B92
+$deep-purple-a100: rgb(179,136,255);    // #B388FF
+$deep-purple-a200: rgb(124,77,255);     // #7C4DFF
+$deep-purple-a400: rgb(101,31,255);     // #651FFF
+$deep-purple-a700: rgb(98,0,234);       // #6200EA
+
+// Indigo
+$indigo-50:        rgb(232,234,246);    // #E8EAF6
+$indigo-100:       rgb(197,202,233);    // #C5CAE9
+$indigo-200:       rgb(159,168,218);    // #9FA8DA
+$indigo-300:       rgb(121,134,203);    // #7986CB
+$indigo-400:       rgb(92,107,192);     // #5C6BC0
+$indigo-500:       rgb(63,81,181);      // #3F51B5
+$indigo-600:       rgb(57,73,171);      // #3949AB
+$indigo-700:       rgb(48,63,159);      // #303F9F
+$indigo-800:       rgb(40,53,147);      // #283593
+$indigo-900:       rgb(26,35,126);      // #1A237E
+$indigo-a100:      rgb(140,158,255);    // #8C9EFF
+$indigo-a200:      rgb(83,109,254);     // #536DFE
+$indigo-a400:      rgb(61,90,254);      // #3D5AFE
+$indigo-a700:      rgb(48,79,254);      // #304FFE
+
+// Blue
+$blue-50:          rgb(227,242,253);    // #E3F2FD
+$blue-100:         rgb(187,222,251);    // #BBDEFB
+$blue-200:         rgb(144,202,249);    // #90CAF9
+$blue-300:         rgb(100,181,246);    // #64B5F6
+$blue-400:         rgb(66,165,245);     // #42A5F5
+$blue-500:         rgb(33,150,243);     // #2196F3
+$blue-600:         rgb(30,136,229);     // #1E88E5
+$blue-700:         rgb(25,118,210);     // #1976D2
+$blue-800:         rgb(21,101,192);     // #1565C0
+$blue-900:         rgb(13,71,161);      // #0D47A1
+$blue-a100:        rgb(130,177,255);    // #82B1FF
+$blue-a200:        rgb(68,138,255);     // #448AFF
+$blue-a400:        rgb(41,121,255);     // #2979FF
+$blue-a700:        rgb(41,98,255);      // #2962FF
+
+// Light Blue
+$light-blue-50:    rgb(225,245,254);    // #E1F5FE
+$light-blue-100:   rgb(179,229,252);    // #B3E5FC
+$light-blue-200:   rgb(129,212,250);    // #81D4FA
+$light-blue-300:   rgb(79,195,247);     // #4FC3F7
+$light-blue-400:   rgb(41,182,246);     // #29B6F6
+$light-blue-500:   rgb(3,169,244);      // #03A9F4
+$light-blue-600:   rgb(3,155,229);      // #039BE5
+$light-blue-700:   rgb(2,136,209);      // #0288D1
+$light-blue-800:   rgb(2,119,189);      // #0277BD
+$light-blue-900:   rgb(1,87,155);       // #01579B
+$light-blue-a100:  rgb(128,216,255);    // #80D8FF
+$light-blue-a200:  rgb(64,196,255);     // #40C4FF
+$light-blue-a400:  rgb(0,176,255);      // #00B0FF
+$light-blue-a700:  rgb(0,145,234);      // #0091EA
+
+// Cyan
+$cyan-50:          rgb(224,247,250);    // #E0F7FA
+$cyan-100:         rgb(178,235,242);    // #B2EBF2
+$cyan-200:         rgb(128,222,234);    // #80DEEA
+$cyan-300:         rgb(77,208,225);     // #4DD0E1
+$cyan-400:         rgb(38,198,218);     // #26C6DA
+$cyan-500:         rgb(0,188,212);      // #00BCD4
+$cyan-600:         rgb(0,172,193);      // #00ACC1
+$cyan-700:         rgb(0,151,167);      // #0097A7
+$cyan-800:         rgb(0,131,143);      // #00838F
+$cyan-900:         rgb(0,96,100);       // #006064
+$cyan-a100:        rgb(132,255,255);    // #84FFFF
+$cyan-a200:        rgb(24,255,255);     // #18FFFF
+$cyan-a400:        rgb(0,229,255);      // #00E5FF
+$cyan-a700:        rgb(0,184,212);      // #00B8D4
+
+// Teal
+$teal-50:          rgb(224,242,241);    // #E0F2F1
+$teal-100:         rgb(178,223,219);    // #B2DFDB
+$teal-200:         rgb(128,203,196);    // #80CBC4
+$teal-300:         rgb(77,182,172);     // #4DB6AC
+$teal-400:         rgb(38,166,154);     // #26A69A
+$teal-500:         rgb(0,150,136);      // #009688
+$teal-600:         rgb(0,137,123);      // #00897B
+$teal-700:         rgb(0,121,107);      // #00796B
+$teal-800:         rgb(0,105,92);       // #00695C
+$teal-900:         rgb(0,77,64);        // #004D40
+$teal-a100:        rgb(167,255,235);    // #A7FFEB
+$teal-a200:        rgb(100,255,218);    // #64FFDA
+$teal-a400:        rgb(29,233,182);     // #1DE9B6
+$teal-a700:        rgb(0,191,165);      // #00BFA5
+
+// Green
+$green-50:         rgb(232,245,233);    // #E8F5E9
+$green-100:        rgb(200,230,201);    // #C8E6C9
+$green-200:        rgb(165,214,167);    // #A5D6A7
+$green-300:        rgb(129,199,132);    // #81C784
+$green-400:        rgb(102,187,106);    // #66BB6A
+$green-500:        rgb(76,175,80);      // #4CAF50
+$green-600:        rgb(67,160,71);      // #43A047
+$green-700:        rgb(56,142,60);      // #388E3C
+$green-800:        rgb(46,125,50);      // #2E7D32
+$green-900:        rgb(27,94,32);       // #1B5E20
+$green-a100:       rgb(185,246,202);    // #B9F6CA
+$green-a200:       rgb(105,240,174);    // #69F0AE
+$green-a400:       rgb(0,230,118);      // #00E676
+$green-a700:       rgb(0,200,83);       // #00C853
+
+// Light Green
+$light-green-50:   rgb(241,248,233);    // #F1F8E9
+$light-green-100:  rgb(220,237,200);    // #DCEDC8
+$light-green-200:  rgb(197,225,165);    // #C5E1A5
+$light-green-300:  rgb(174,213,129);    // #AED581
+$light-green-400:  rgb(156,204,101);    // #9CCC65
+$light-green-500:  rgb(139,195,74);     // #8BC34A
+$light-green-600:  rgb(124,179,66);     // #7CB342
+$light-green-700:  rgb(104,159,56);     // #689F38
+$light-green-800:  rgb(85,139,47);      // #558B2F
+$light-green-900:  rgb(51,105,30);      // #33691E
+$light-green-a100: rgb(204,255,144);    // #CCFF90
+$light-green-a200: rgb(178,255,89);     // #B2FF59
+$light-green-a400: rgb(118,255,3);      // #76FF03
+$light-green-a700: rgb(100,221,23);     // #64DD17
+
+// Lime
+$lime-50:          rgb(249,251,231);    // #F9FBE7
+$lime-100:         rgb(240,244,195);    // #F0F4C3
+$lime-200:         rgb(230,238,156);    // #E6EE9C
+$lime-300:         rgb(220,231,117);    // #DCE775
+$lime-400:         rgb(212,225,87);     // #D4E157
+$lime-500:         rgb(205,220,57);     // #CDDC39
+$lime-600:         rgb(192,202,51);     // #C0CA33
+$lime-700:         rgb(175,180,43);     // #AFB42B
+$lime-800:         rgb(158,157,36);     // #9E9D24
+$lime-900:         rgb(130,119,23);     // #827717
+$lime-a100:        rgb(244,255,129);    // #F4FF81
+$lime-a200:        rgb(238,255,65);     // #EEFF41
+$lime-a400:        rgb(198,255,0);      // #C6FF00
+$lime-a700:        rgb(174,234,0);      // #AEEA00
+
+// Yellow
+$yellow-50:        rgb(255,253,231);    // #FFFDE7
+$yellow-100:       rgb(255,249,196);    // #FFF9C4
+$yellow-200:       rgb(255,245,157);    // #FFF59D
+$yellow-300:       rgb(255,241,118);    // #FFF176
+$yellow-400:       rgb(255,238,88);     // #FFEE58
+$yellow-500:       rgb(255,235,59);     // #FFEB3B
+$yellow-600:       rgb(253,216,53);     // #FDD835
+$yellow-700:       rgb(251,192,45);     // #FBC02D
+$yellow-800:       rgb(249,168,37);     // #F9A825
+$yellow-900:       rgb(245,127,23);     // #F57F17
+$yellow-a100:      rgb(255,255,141);    // #FFFF8D
+$yellow-a200:      rgb(255,255,0);      // #FFFF00
+$yellow-a400:      rgb(255,234,0);      // #FFEA00
+$yellow-a700:      rgb(255,214,0);      // #FFD600
+
+// Amber
+$amber-50:         rgb(255,248,225);    // #FFF8E1
+$amber-100:        rgb(255,236,179);    // #FFECB3
+$amber-200:        rgb(255,224,130);    // #FFE082
+$amber-300:        rgb(255,213,79);     // #FFD54F
+$amber-400:        rgb(255,202,40);     // #FFCA28
+$amber-500:        rgb(255,193,7);      // #FFC107
+$amber-600:        rgb(255,179,0);      // #FFB300
+$amber-700:        rgb(255,160,0);      // #FFA000
+$amber-800:        rgb(255,143,0);      // #FF8F00
+$amber-900:        rgb(255,111,0);      // #FF6F00
+$amber-a100:       rgb(255,229,127);    // #FFE57F
+$amber-a200:       rgb(255,215,64);     // #FFD740
+$amber-a400:       rgb(255,196,0);      // #FFC400
+$amber-a700:       rgb(255,171,0);      // #FFAB00
+
+// Orange
+$orange-50:        rgb(255,243,224);    // #FFF3E0
+$orange-100:       rgb(255,224,178);    // #FFE0B2
+$orange-200:       rgb(255,204,128);    // #FFCC80
+$orange-300:       rgb(255,183,77);     // #FFB74D
+$orange-400:       rgb(255,167,38);     // #FFA726
+$orange-500:       rgb(255,152,0);      // #FF9800
+$orange-600:       rgb(251,140,0);      // #FB8C00
+$orange-700:       rgb(245,124,0);      // #F57C00
+$orange-800:       rgb(239,108,0);      // #EF6C00
+$orange-900:       rgb(230,81,0);       // #E65100
+$orange-a100:      rgb(255,209,128);    // #FFD180
+$orange-a200:      rgb(255,171,64);     // #FFAB40
+$orange-a400:      rgb(255,145,0);      // #FF9100
+$orange-a700:      rgb(255,109,0);      // #FF6D00
+
+//  Deep Orange
+$deep-orange-50:   rgb(251,233,231);    // #FBE9E7
+$deep-orange-100:  rgb(255,204,188);    // #FFCCBC
+$deep-orange-200:  rgb(255,171,145);    // #FFAB91
+$deep-orange-300:  rgb(255,138,101);    // #FF8A65
+$deep-orange-400:  rgb(255,112,67);     // #FF7043
+$deep-orange-500:  rgb(255,87,34);      // #FF5722
+$deep-orange-600:  rgb(244,81,30);      // #F4511E
+$deep-orange-700:  rgb(230,74,25);      // #E64A19
+$deep-orange-800:  rgb(216,67,21);      // #D84315
+$deep-orange-900:  rgb(191,54,12);      // #BF360C
+$deep-orange-a100: rgb(255,158,128);    // #FF9E80
+$deep-orange-a200: rgb(255,110,64);     // #FF6E40
+$deep-orange-a400: rgb(255,61,0);       // #FF3D00
+$deep-orange-a700: rgb(221,44,0);       // #DD2C00
+
+// Brown
+$brown-50:         rgb(239,235,233);    // #EFEBE9
+$brown-100:        rgb(215,204,200);    // #D7CCC8
+$brown-200:        rgb(188,170,164);    // #BCAAA4
+$brown-300:        rgb(161,136,127);    // #A1887F
+$brown-400:        rgb(141,110,99);     // #8D6E63
+$brown-500:        rgb(121,85,72);      // #795548
+$brown-600:        rgb(109,76,65);      // #6D4C41
+$brown-700:        rgb(93,64,55);       // #5D4037
+$brown-800:        rgb(78,52,46);       // #4E342E
+$brown-900:        rgb(62,39,35);       // #3E2723
+
+// Gray
+$grey-50:          rgb(250,250,250);    // #FAFAFA
+$grey-100:         rgb(245,245,245);    // #F5F5F5
+$grey-200:         rgb(238,238,238);    // #EEEEEE
+$grey-300:         rgb(224,224,224);    // #E0E0E0
+$grey-400:         rgb(189,189,189);    // #BDBDBD
+$grey-500:         rgb(158,158,158);    // #9E9E9E
+$grey-600:         rgb(117,117,117);    // #757575
+$grey-700:         rgb(97,97,97);       // #616161
+$grey-800:         rgb(66,66,66);       // #424242
+$grey-900:         rgb(33,33,33);       // #212121
+
+// Blue Gray
+$blue-grey-50:     rgb(236,239,241);    // #ECEFF1
+$blue-grey-100:    rgb(207,216,220);    // #CFD8DC
+$blue-grey-200:    rgb(176,190,197);    // #B0BEC5
+$blue-grey-300:    rgb(144,164,174);    // #90A4AE
+$blue-grey-400:    rgb(120,144,156);    // #78909C
+$blue-grey-500:    rgb(96,125,139);     // #607D8B
+$blue-grey-600:    rgb(84,110,122);     // #546E7A
+$blue-grey-700:    rgb(69,90,100);      // #455A64
+$blue-grey-800:    rgb(55,71,79);       // #37474F
+$blue-grey-900:    rgb(38,50,56);       // #263238
+
+$black:            rgb(0,0,0);          // #000000
+$white:            rgb(255,255,255);    // #FFFFFF
